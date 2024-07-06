@@ -77,7 +77,28 @@ border: dashed;}
     width: 800px;
     border: dashed;}
     
+ /*Fourth Section*/
+ #fourth-section{display: flex;
+    height:250px;
+    background-color: burlywood;
+   justify-content: center;
+   align-items: stretch;
+   padding-right: 150px;
+   padding-left: 150px;
+   
+ }
+ 
+ #fs-box1{max-height: 250px;
+    border: dashed;
+background-color: lightsalmon;
+}
 
+ .fs-box{
+ max-height: 250px ;
+ background-color: palegreen;
+ border: dashed;
+ flex-basis: calc(100% /4);
+ }
 
+ /*Footer*/
 
-/* utilities */
