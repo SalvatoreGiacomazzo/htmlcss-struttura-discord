@@ -55,7 +55,28 @@ align-items: center;}
 width: 400px;
 border: dashed;}
 
+/*Third Section*/
 
+#third-section{height:250px;
+    background-color: rgb(18, 160, 70);
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+    
+    
+    .ts-box{height: 180px;
+        max-width: 1200px;
+    }
+    
+    #ts-box1{
+        background-color: rgb(186, 130, 0);
+        width: 400px;
+        border: dashed;
+    }
+     #ts-box2{background-color: rgb(255, 97, 107);
+    width: 800px;
+    border: dashed;}
+    
 
 
 
