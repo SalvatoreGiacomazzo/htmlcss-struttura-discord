@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ /*header*/
+.header-container{display: flex;
+    justify-content: space-around;
+    height: 60px;
+    background-color: aqua;
+    align-items: center;
+    border-color: black dashed;}
+
+section{ display:flex;
+justify-content: space-around;
+align-items: center;
+height: 35px;
+width: 1200px;
+background-color: rgb(133, 47, 213);
+border: dashed;}
+
+
+
+
+
+
+
+
+
+
+/* utilities */
