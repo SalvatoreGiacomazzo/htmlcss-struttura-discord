@@ -34,6 +34,26 @@ background-color: rgb(233, 67, 233);
 border: 2px dashed;
  }
 
+/*Second section*/
+#second-section{height:250px;
+background-color: rgb(203, 194, 194);
+display: flex;
+justify-content: center;
+align-items: center;}
+
+
+.ss-box{height: 180px;
+    max-width: 1200px;
+}
+
+#ss-box1{
+    background-color: rgb(55, 141, 141);
+    width: 800px;
+    border: dashed;
+}
+ #ss-box2{background-color: rgb(95, 53, 53);
+width: 400px;
+border: dashed;}
 
 
 
