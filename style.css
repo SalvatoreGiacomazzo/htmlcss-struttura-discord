@@ -9,7 +9,8 @@
     height: 60px;
     background-color: aqua;
     align-items: center;
-    border-color: black dashed;}
+    border-color: black;
+    border: dashed;}
 
 #header-section{ display:flex;
 justify-content: space-around;
@@ -101,4 +102,20 @@ background-color: lightsalmon;
  }
 
  /*Footer*/
+ footer{height: 80px;
+background-color: black;
+font-size: xx-small;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+.footer-button-container{
+    height: 45px;
+    width: 1200px;
+    background-color:orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: dashed;
+}
 
