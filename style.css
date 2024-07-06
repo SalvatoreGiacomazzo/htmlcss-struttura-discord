@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
  /*header*/
 .header-container{display: flex;
     justify-content: space-around;
@@ -12,17 +11,28 @@
     align-items: center;
     border-color: black dashed;}
 
-section{ display:flex;
+#header-section{ display:flex;
 justify-content: space-around;
 align-items: center;
 height: 35px;
 width: 1200px;
 background-color: rgb(133, 47, 213);
-border: dashed;}
+border: dashed;
+}
 
+/*First section*/
+#first-section{ display: flex;
+justify-content: center;
+align-items: center;
+height: 250px;
+background-color: rgb(234, 184, 58);
 
-
-
+}
+ #single-box{height:180px;
+width: 500px;
+background-color: rgb(233, 67, 233);
+border: 2px dashed;
+ }
 
 
 
